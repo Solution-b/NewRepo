@@ -1,0 +1,9 @@
+{
+	"name": "SolutionDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72fae5b6-b631-4bfa-9c0b-417bd2478e5f",
+		"tenantId": "6a556fc5-b25a-4d58-8efd-f5475befb0a7"
+	}
+}
